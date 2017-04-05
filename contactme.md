@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 联系我们
+subtitle: wmxueyuan@newcapec.net
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+新开普电子股份有限公司
+-地址：郑州市高新技术产业开发区迎春街18号
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+-商务合作：
+-热线：400-630-0248
+-办公：0371-56599539
+-邮箱：wmxiaoyuan@newcapec.net
+同时您也可在手机微信上关注“新开普完美校园”
+然后通过公众号联系我们。
