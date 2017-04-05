@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 联系我们
-subtitle: wmxueyuan@newcapec.net
+subtitle: 
 ---
 
 ### 新开普电子股份有限公司# 
